@@ -25,7 +25,7 @@ SECRET_KEY = 'b)2kse!fsrub#i7@b$50&6ix%-6ka3o%ney3mj_q$y_0g6-w8$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'sofiabetanzos.pythonanywhere.com']
 
 
 # Application definition
